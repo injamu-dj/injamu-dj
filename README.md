@@ -1,10 +1,10 @@
-## Hi, I'm Mhenga 👋
+## Hi, I'm Daniel 👋
 
-I make explainer videos on YouTube and build my own tools to produce them, from Nairobi, Kenya.
+I make explainer videos on YouTube and build my own tools to produce them, with ❤️ from Nairobi, Kenya.
 
 - 🎬 YouTube: [**@MhengaExplains**](https://www.youtube.com/@MhengaExplains)
 - 🛠️ Building: **Whitesmith**, my video production studio app (below)
-- 🌱 Learning: GitHub, Python and how good software is put together
+- 🌱 Learning: GitHub, Python, and how good software is put together
 
 ---
 
