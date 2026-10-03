@@ -18,17 +18,17 @@ A lightweight Windows desktop app that takes a faceless explainer episode from i
 
 | Stage | What Whitesmith does |
 |---|---|
-| 💡 Ideas | brainstorm with YouTube and web research |
+| 💡 Ideas | Brainstorm with YouTube and web research |
 | ✍️ Script | AI draft or my own, with revisions and history |
-| 🎙️ Voice-over | my own voice, a voice clone or AI voices, with an automatic **voice-consistency check** (no sudden whispers or volume jumps) |
-| 🎞️ Scenes | timed to the voice-over at natural pauses; resync one scene or all of them after script changes; select scenes for batch changes |
-| 🖼️ Pictures | free engines first, paid ones priced before anything is spent; **one locked style per episode**, a character sheet so people look the same in every scene, and no stray text in pictures |
-| 🎨 Editing | hands a ready-made package to DaVinci Resolve, Premiere Pro, CapCut, Photoshop, Illustrator and more, then **syncs changes back automatically** when I save |
-| 🚀 Publish | publish check, description, chapters, Shorts and scheduling |
+| 🎙️ Voice-over | My own voice, a voice clone or AI voices, with an automatic **voice-consistency check** |
+| 🎞️ Scenes | Timed to the voice-over |
+| 🖼️ Pictures | Free engines first, paid ones wired and available, a character sheet so characters look the same in every scene. |
+| 🎨 Editing | Hands a ready-made package to DaVinci Resolve, Premiere Pro, CapCut, Photoshop, Illustrator .etc for touch-ups, then **syncs changes back automatically** |
+| 🚀 Publish | Publish check, description, chapters, Shorts, and scheduling |
 
 **Built with:** Python · FastAPI · SQLite · vanilla JavaScript · FFmpeg · Windows file-change notifications · a native window (WebView2)
 
-**Principles:** runs only on my PC · keys stay in Windows Credential Manager · free tools first, and nothing paid without asking · every change versioned and documented
+**Principles:** Runs locally
 
 > The code is private for now. This page shows what it does.
 
